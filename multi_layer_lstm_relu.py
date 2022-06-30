@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 10 15:37:04 2021
-
-@author: Administrator
-"""
 
 ##define root path
 ##只要修改好root path和内存空间就都能跑
